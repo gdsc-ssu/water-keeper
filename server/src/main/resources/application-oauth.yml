@@ -1,0 +1,18 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 1030916293455-f0thpqqmo7krqbpnbk7cdb263rt49i1r.apps.googleusercontent.com
+            client-secret: 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
+            redirect-uri: "http://localhost:8080/login/oauth2/code/google"
+            scope: profile, email
+
+app:
+  auth:
+    tokenSecret: "5682ace6816e2fb9a6aaed2d4b0d21b6d0dc0fa41467a524f2c7f2c84cff0f0b10229911c5aab645dd79e31ca2418f6d573b897a115f676dd5b7cb3ebfe6f0a5
+"
+    tokenExpirationMsec: 864000000
+  oauth2:
+    authorizedRedirectUris: "http://localhost:8080/oauth2/redirect"
