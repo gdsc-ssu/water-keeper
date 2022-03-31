@@ -1,9 +1,9 @@
 # water-keeper
 [2022 Google Solution Challenge] Save and Send Water to Water-deprived Countries.
-* [Introduction](#Introduction)
-* [Application](#Application)
-* [How to Use](#How-to-Use)
-* [How to Build](#How-to-Build)
+* [Introduction](#:droplet:-Introduction)
+* [Application](#📱-Application)
+* [How to Use](#🗒️-How-to-Use)
+* [How to Build](#:wrench:-How-to-Build)
 
 # :droplet: Introduction
 Water Keeper is an app that provides water quality improvement tasks and fills water droplets when performing tasks.  
