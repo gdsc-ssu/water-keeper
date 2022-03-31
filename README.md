@@ -8,7 +8,8 @@ If all the water droplets are filled, clean water will be donated to countries t
 Our app "Water Keeper" means "a person who protects the water.".    
 Leave no behind one, we aim to remember the UN's sustainable development agenda and work together to improve water pollution and ensure the right to use clean water.
 
-![슬라이드1](https://user-images.githubusercontent.com/33739448/160979889-8de4e365-e4d0-49eb-967f-14229aeef0b3.PNG)
-![슬라이드2](https://user-images.githubusercontent.com/33739448/160979892-28d5c68f-c5d1-487a-ac44-14cfb33dc7ae.PNG)
-![슬라이드3](https://user-images.githubusercontent.com/33739448/160979893-07e0562e-1d25-47b0-bb9d-175c1708d5c5.PNG)
-![슬라이드4](https://user-images.githubusercontent.com/33739448/160979896-0edb3c7e-0f15-4fa1-8fb0-64e2aa44ddc2.PNG)
+
+![그림1](https://user-images.githubusercontent.com/33739448/160980209-c4f264ef-909c-436b-b6cc-2f1c3e9c5440.png)
+![그림2](https://user-images.githubusercontent.com/33739448/160980215-fb0815cd-127a-48f9-adaf-90e9352bcedf.png)
+![그림3](https://user-images.githubusercontent.com/33739448/160980222-1c235e58-688d-43e2-9938-93987ff9acac.png)
+![그림4](https://user-images.githubusercontent.com/33739448/160980229-61ba2747-ffdc-484e-ac5a-6b655f53f410.png)
