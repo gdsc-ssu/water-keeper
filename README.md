@@ -13,3 +13,24 @@ Leave no behind one, we aim to remember the UN's sustainable development agenda 
 ![그림2](https://user-images.githubusercontent.com/33739448/160980215-fb0815cd-127a-48f9-adaf-90e9352bcedf.png)
 ![그림3](https://user-images.githubusercontent.com/33739448/160980222-1c235e58-688d-43e2-9938-93987ff9acac.png)
 ![그림4](https://user-images.githubusercontent.com/33739448/160980316-6349a78a-2426-4db6-9348-ddacb9b06545.png)
+
+## 🗒️ How to Use
+### Login
+* Log in easily with your Google Account.
+
+### Fill Water Drop
+* Fill the main screen with water droplets.
+* You can fill the water by performing various water-saving tasks.
+* You can send the collected water to countries that lack water by touching water droplets.
+
+### Store
+* Buy a variety of water and environmental products.
+* A certain amount of revenue will be donated.
+
+### News & Events
+* You can see articles about water pollution or water conservation.
+* Participate in various water conservation campaigns.
+
+### Badge & Statistics
+* Your water conservation challenge can be certified by badge.
+* Provide statistics on collected water and tasks performed.
